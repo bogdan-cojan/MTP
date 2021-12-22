@@ -1,0 +1,5 @@
+Casino Royale,Ian Fleming,Literatură de spionaj
+Goldfinger,Ian Fleming,Literatură de spionaj
+The Man from Barbarossa,John Gardner,Literatură de spionaj
+Death Is Forever,John Gardner,Literatură de spionaj
+Goldeneye,John Gardner,Literatură de spionaj
